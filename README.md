@@ -1,7 +1,7 @@
 # Reto 6 clase PDC Unal 2024-1
-[![image.png](https://i.postimg.cc/CxsRrGnw/image.png)](https://postimg.cc/dhDQLT9f)
-# -David Montes
 
+# -David Montes
+![](https://camo.githubusercontent.com/5fd7ce01fb5d6b1b0f28e966746c12564183a0b92cd65725ea6a9be4bd23f996/68747470733a2f2f692e706f7374696d672e63632f486b4d6464534e772f6572726f722d3431382e706e67)
 A continuación de presentarán las distintas soluciones a los ejercicios del reto 6:
  
 # ejercicio 1
