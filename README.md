@@ -357,3 +357,6 @@ Algunos de los módulos más populares de python son:
 - Ilastik
 - Py2Exe
 - PyGTK
+- 
+Información sacada de:
+https://jpromanonet.medium.com/como-instalar-python-y-sus-modulos-m%C3%A1s-utilizados-7ff41913de1d
